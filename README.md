@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm someone who loves exploring technology, experimenting with new ideas, and building things just to understand how they work.<br>I'm always looking for something new to learn.urrently focused on strengthening my fundamentals, gaining hands-on experience, and exploring different areas of software development.<br><br>I'm still figuring out where this journey will take me, and that's what makes it exciting.
+I'm someone who loves exploring technology, experimenting with new ideas, and building things just to understand how they work.<br>I'm always looking for something new to learn.Currently focused on strengthening my fundamentals, gaining hands-on experience, and exploring different areas of software development.<br><br>I'm still figuring out where this journey will take me, and that's what makes it exciting.
 
 
 # 💻 Tech Stack:
